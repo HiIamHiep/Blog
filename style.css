@@ -25820,7 +25820,7 @@ opacity: 0.84;
 .lazyload,
 .lazyloading {
 background-color: #ddd;
-opacity: 0.1 !important;
+/* opacity: 0.1 !important; */
 transition: opacity 0.3s;
 }
 .lazyloaded {
