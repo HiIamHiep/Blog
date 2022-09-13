@@ -32367,13 +32367,13 @@ animation: rotateplane 1.2s infinite ease-in-out;
 }
 @font-face {
 font-family: "ts-icons";
-src: url(/assets/ts-icons.woff2?v1)
+src: url(./assets/ts-icons.woff2?v1)
     format("woff2"),
-    url(/assets/ts-icons.woff?v1)
+    url(./assets/ts-icons.woff?v1)
     format("woff"),
-    url(/assets/ts-icons.ttf?v1)
+    url(./assets/ts-icons.ttf?v1)
     format("truetype"),
-    url(/assets/ts-icons.svg?v1#ts-icons)
+    url(./assets/ts-icons.svg?v1#ts-icons)
     format("svg");
 font-weight: 400;
 font-style: normal;
